@@ -1,4 +1,4 @@
-#MaxFlow MinCut Implementation
+# MaxFlow MinCut Implementation
 
 To Execute the program use following convention
 ./a.out < "Testcase.txt" 
