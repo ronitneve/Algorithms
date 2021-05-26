@@ -1,0 +1,4 @@
+/To execute the file using gcc
+a.out file is included in the Assignment folder to execute.
+gcc Assignment_1.c
+
